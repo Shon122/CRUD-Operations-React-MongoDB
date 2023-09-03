@@ -1,2 +1,5 @@
 
- <p>first do "npm start" in the frontend and then do "node Server.js" in the backend</p>
+ <p>cd frontend</p>
+ <p>npm start</p>
+ <p>cd backend</p>
+ <p>npm run dev</p>
